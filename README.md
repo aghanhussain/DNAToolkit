@@ -1,4 +1,4 @@
-DNA Toolkit
+# DNA Toolkit
 Welcome to the DNA Toolkit! This repository is my introduction to bioinformatics, providing essential tools for DNA sequence analysis and manipulation.
 
 Features
